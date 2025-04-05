@@ -3,7 +3,7 @@ neo4j==5.17.0
 python-dotenv==1.0.1
 pyvis==0.3.2
 streamlit==1.38.0
-llama-index==0.11.4
+llama-index==0.12.9
 llama-index-agent-openai==0.3.0
 llama-index-core==0.11.4
 llama-index-embeddings-openai==0.2.4
