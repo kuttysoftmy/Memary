@@ -37,7 +37,7 @@ dependencies = [
     "llama-index-program-openai==0.2.0",
     "llama-index-question-gen-openai==0.2.0",
     "llama-index-readers-file==0.2.0",
-    "langchain==0.1.12",
+    "langchain==0.3.30",
     "langchain-openai==0.0.8",
     "llama-index-llms-perplexity==0.2.0",
     "llama-index-multi-modal-llms-ollama==0.3.0",
